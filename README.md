@@ -88,10 +88,6 @@ El programa permite controlar la posición, rotación y escala del objeto utiliz
 - **Y**: Rotar hacia la derecha (eje Z)
 - **Escape**: Salir del programa
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o un pull request.
-
 ## MI nave obj
 
 ![image](https://github.com/user-attachments/assets/18bb3549-6ed6-4a09-8232-a37239e887be)
